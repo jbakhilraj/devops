@@ -1,0 +1,5 @@
+print("program")
+print("second line of the program")
+print("seven ate nine")
+print("this code is funny")
+print("last line")
